@@ -2,7 +2,9 @@ Projeto Netflix clone para a disciplina de Tecnologias para Back-End I do curso 
 
 Codigo feito por:
 
-Gabriel Nunes dos Santos
+- Gabriel Nunes dos Santos
+
+______________________________________________________________________________________________
 
 Olá, seja bem vindo a mais um curso com o professor Rodrigo Fujioka.
 
