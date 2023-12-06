@@ -1,3 +1,9 @@
+Projeto Netflix clone para a disciplina de Tecnologias para Back-End I do curso de Sistemas para Internet da UNIESP.
+
+Codigo feito por:
+
+Gabriel Nunes dos Santos
+
 Olá, seja bem vindo a mais um curso com o professor Rodrigo Fujioka.
 
 * Meu linkedin: [@rodrigofujioka](https://www.linkedin.com/in/rfujioka/)  
